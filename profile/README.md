@@ -1,3 +1,3 @@
 # Gerard Braad @ Red Hat
 
-## <gbraad@redhat.com>
+## Email: <gbraad@redhat.com>
