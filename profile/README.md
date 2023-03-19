@@ -5,8 +5,8 @@
 ## Manager, Software Engineering
 
 Managing the teams for:
-  * CRC runs Containers (productized as OpenShift Local) which brings a minimal OpenShift Container Platform 4 cluster and Podman container runtime to your local computer for development purposes.
-  * JKube; Build and Deploy Java applications on Kubernetes
+  *  [@crc-org](https://github.com/crc-org), (productized as OpenShift Local) which brings a minimal OpenShift Container Platform 4 cluster and Podman container runtime to your local computer for development purposes.
+  * [JKube](https://github.com/eclipse/jkube); Build and Deploy Java applications on Kubernetes
   
 
-##### <gbraad@redhat.com>, [@gbraad](https://github.com/gbraad), [@crc-org](https://github.com/crc-org), [@jkubeio](https://github.com/jkubeio)
+##### <gbraad@redhat.com>
