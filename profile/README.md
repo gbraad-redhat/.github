@@ -1,3 +1,5 @@
 # Gerard Braad @ Red Hat
 
-## Email: <gbraad@redhat.com>
+## Manager, Software Engineering
+
+#### <gbraad@redhat.com>, [@crc-org](https://github.com/crc-org), [@jkubeio](https://github.com/jkubeio)
