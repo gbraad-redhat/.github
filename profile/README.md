@@ -7,5 +7,5 @@
 Managing the teams for:
   * [CRC](https://crc.dev), [@crc-org](https://github.com/crc-org)  
     Brings a minimal OpenShift Container Platform 4 cluster and Podman container runtime to your local computer for development purposes. Productized as OpenShift Local.
-  * [JKube](https://github.com/eclipse/jkube), [@jkubeio](https://github.com/jkubeio)    
+  * [Eclipse JKube](https://www.eclipse.org/jkube/), [source code](https://github.com/eclipse/jkube), [@jkubeio](https://github.com/jkubeio)    
     Build and Deploy Java applications on Kubernetes
