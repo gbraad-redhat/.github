@@ -9,3 +9,9 @@ Managing the teams for:
     Brings a minimal OpenShift Container Platform 4 cluster and Podman container runtime to your local computer for development purposes. Productized as OpenShift Local.
   * [Eclipse JKube](https://www.eclipse.org/jkube/), [source code](https://github.com/eclipse/jkube), [@jkubeio](https://github.com/jkubeio)    
     Build and Deploy Java applications on Kubernetes
+
+
+Working on different projects:
+  * Podman Machine
+  * Podman Desktop
+  * etc
