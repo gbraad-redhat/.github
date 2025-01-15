@@ -18,5 +18,6 @@ Working on different projects:
 
 ---
 
-- [`gbraad-redhat/ubi9-gotoolset`](https://codespaces.new/gbraad-redhat/ubi9-gotoolset/), [`gbraad-devenv/ubi9-gotoolset`](https://github.dev/gbraad-devenv/ubi9-gotoolset/)
-- [`gbraad-redhat/fedora-golang`](https://codespaces.new/gbraad-redhat/fedora-golang/), [`gbraad-devenv/fedora-golang`](https://github.dev/gbraad-devenv/fedora-golang/)
+- Codespace: [`gbraad-redhat/ubi9-gotoolset`](https://codespaces.new/gbraad-redhat/ubi9-gotoolset/), [`gbraad-devenv/ubi9-gotoolset`](https://github.dev/gbraad-devenv/ubi9-gotoolset/)
+- Codespace: [`gbraad-redhat/fedora-golang`](https://codespaces.new/gbraad-redhat/fedora-golang/), [`gbraad-devenv/fedora-golang`](https://github.dev/gbraad-devenv/fedora-golang/)
+- Ephemeral Infrastructure: [`gbraad-redhat/personal-forgejo`](https://github.com/gbraad-redhat/personal-forgejo/actions/workflows/tailscale-deploy.yml)
