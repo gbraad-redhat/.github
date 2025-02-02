@@ -10,11 +10,14 @@ Managing the teams for:
   * [Eclipse JKube](https://www.eclipse.org/jkube/), [source code](https://github.com/eclipse/jkube), [@eclipse-jkube](https://github.com/eclipse-jkube)    
     Build and Deploy Java applications on Kubernetes
 
-
 Working on different projects:
   * Podman Machine
   * Podman Desktop
+  * containers
   * etc
+
+### Presentations
+  - bootc - https://docs.gbraad.nl/from-containerfile-to-virtual-machine/
 
 ---
 
