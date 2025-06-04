@@ -17,7 +17,7 @@ Working on different projects:
   * etc
 
 ### Presentations
-  - bootc - https://docs.gbraad.nl/from-containerfile-to-virtual-machine/
+  - [bootc - From `Containerfile` to (Virtual) Machine](https://docs.gbraad.nl/from-containerfile-to-virtual-machine/)
 
 ---
 
