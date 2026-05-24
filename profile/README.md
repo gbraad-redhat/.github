@@ -6,7 +6,7 @@
 
 Led distributed engineering teams (11 engineers across China, India, and Europe) building CRC/OpenShift Local and JKube, serving thousands of developers globally.
 
-### PRODUCTS
+### Products
   * [CRC](https://github.com/crc-org)/OpenShift Local  
     Red Hat development tool for provisioning a full OpenShift in ~10 minutes across Linux, macOS, Windows. Cross-platform virtualization without admin privileges.
   * Podman Infrastructure
@@ -35,7 +35,7 @@ Built virtualization stack for Linux (KVM), macOS (Hyperkit/Apple framework),
 #### Technologies
 Kubernetes, OpenShift, Podman, Go, Python, Virtualization, Linux, macOS, Windows; (Hyper-V) without admin requirements. Solved complex OS-level constraints.
 
-### LEADERSHIP & IMPACT
+### Leadership and impact
   * Built center of excellence for cross-platform systems engineering
   * Developed high-performing engineers
   * Coordinated cross-product releases with Podman/DevTools teams
