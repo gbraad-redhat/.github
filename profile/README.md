@@ -1,6 +1,6 @@
 # Gerard Braad @ Red Hat
 
-#### Jan 2017 - Present · 8+ years
+#### Jan 2017 - July 2026 · 9+ years
 
 ## Manager, Software Engineering
 
