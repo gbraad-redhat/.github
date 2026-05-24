@@ -15,7 +15,7 @@ Led distributed engineering teams (11 engineers across China, India, and Europe)
     Cloud-native Java tooling for Kubernetes.
 
 #### Execution Excellence
-100+ consecutive monthly releases over 9 years—zero misses. Maintained delivery while re-architecting platform, adding new OS support, and coordinating with multiple teams.
+100+ consecutive monthly releases over 9 years. Maintained delivery while re-architecting platform, adding new OS support, and coordinating with multiple teams.
 
 #### Apple Silicon (2021)
 Delivered full OpenShift on ARM Macs within 12 months of M1 announcement.
